@@ -21,7 +21,7 @@ The main objective of this project is to perform **SQL-based data analysis** on 
 ---
 
 ## About the Data
-
+- <a href="(https://github.com/edifoninigodwin/us-superstore-sql-analysis/blob/main/US%20Superstore%20data.xls)">Dataset</a>
 The dataset represents retail sales transactions from a Superstore in the US. Below are the main fields:
 
 | Column       | Description                          | Data Type    |
@@ -103,5 +103,9 @@ The dataset represents retail sales transactions from a Superstore in the US. Be
 6. How can we classify customers into segments (high vs low value)? 
 
 ---
+## Code
+
+For the  code, check [US_superstore.sql](https://github.com/edifoninigodwin/us-superstore-sql-analysis/blob/main/US_superstore.sql) file
+
 
 
